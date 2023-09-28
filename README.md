@@ -1,2 +1,2 @@
-This repo For MCQ test fonts
+This repo For MCQ test fonts.
 created by @dipankarkumarroy
